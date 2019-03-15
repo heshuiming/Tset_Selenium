@@ -1,0 +1,17 @@
+2019-03-13 16:57:01,521 - BrowserEngine - INFO - You had select Chrome browser. 
+2019-03-13 16:57:01,521 - BrowserEngine - INFO - The test server url is http://test.gedu.pxjy.com 
+2019-03-13 16:57:03,587 - BrowserEngine - INFO - Starting Chorme browser 
+2019-03-13 16:57:07,794 - BrowserEngine - INFO - Open url http://test.gedu.pxjy.com 
+2019-03-13 16:57:07,795 - BrowserEngine - INFO - Set implicitly wait 10 seconds 
+2019-03-13 16:57:07,844 - BasePage - INFO - Had find the element '  ' successfulby id via value:login-userName 
+2019-03-13 16:57:08,202 - BasePage - INFO - Had type ' heshuiming@pxjy.com ' in inputBox 
+2019-03-13 16:57:08,222 - BasePage - INFO - Had find the element '  ' successfulby id via value:login-pwd 
+2019-03-13 16:57:08,284 - BasePage - INFO - Had type ' heshuiming@123 ' in inputBox 
+2019-03-13 16:57:08,304 - BasePage - INFO - Had find the element '  ' successfulby id via value:submit 
+2019-03-13 16:57:08,431 - BasePage - INFO - The emement was click 
+2019-03-13 16:57:09,454 - BasePage - INFO - Had find the element ' 青龙 ' successfulby xpath via value://span[contains(text(),'青龙')] 
+2019-03-13 16:57:09,503 - BasePage - INFO - The emement was click 
+2019-03-13 16:57:15,571 - BasePage - INFO - Had find the element ' 市场资源 ' successfulby xpath via value://span[contains(text(),'市场资源')] 
+2019-03-13 16:57:15,625 - BasePage - INFO - The emement was click 
+2019-03-13 16:57:17,657 - BasePage - INFO - Had find the element ' 全部资源 ' successfulby link_text via value:全部资源 
+2019-03-13 16:58:44,998 - BasePage - INFO - The emement was click 

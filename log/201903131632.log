@@ -1,0 +1,5 @@
+2019-03-13 16:32:26,468 - BrowserEngine - INFO - You had select Chrome browser. 
+2019-03-13 16:32:26,469 - BrowserEngine - INFO - The test server url is http://test.gedu.pxjy.com 
+2019-03-13 16:32:29,047 - BrowserEngine - INFO - Starting Chorme browser 
+2019-03-13 16:33:05,151 - BrowserEngine - INFO - Open url http://test.gedu.pxjy.com 
+2019-03-13 16:33:05,171 - BrowserEngine - INFO - Set implicitly wait 10 seconds 
