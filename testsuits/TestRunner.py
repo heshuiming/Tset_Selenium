@@ -4,17 +4,18 @@
 import unittest
 import os
 import time
+
+from testsuits.baidu_search import BaiduSearch
 from unit.HTMLTestRunner import HTMLTestRunner
-from testsuits.crm_search import CrmSearch
 
 
 # unittest suite 批量添加测试用例，逐个进行执行
 suite = unittest.TestSuite()
 # suite.addTest(BaiduSearch('test_baidu_search'))
-# suite.addTest(BaiduSearch('test_baidu_search2'))
+suite.addTest(BaiduSearch('test_baidu_search2'))
 # suite.addTest(GetPageTitle('test_get_title'))
-# suite.addTest(CrmSearch('test_case1'))
-suite.addTest(CrmSearch('test_case2'))
+
+
 
 # 添加一个类文件下的所有测试用例
 # suite = []
