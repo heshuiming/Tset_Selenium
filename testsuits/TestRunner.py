@@ -12,7 +12,7 @@ from unit.HTMLTestRunner import HTMLTestRunner
 # unittest suite 批量添加测试用例，逐个进行执行
 suite = unittest.TestSuite()
 # suite.addTest(BaiduSearch('test_baidu_search'))
-suite.addTest(BaiduSearch('test_baidu_search2'))
+suite.addTest(BaiduSearch('test_baidu_search2')) #执行测试用例2
 # suite.addTest(GetPageTitle('test_get_title'))
 
 
